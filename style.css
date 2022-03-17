@@ -5,11 +5,11 @@ body {
 h1 {
     font-family: 'Josefin Sans', sans-serif;
     text-align: center;
-    color: #e65977;
+    color: #e66760;
 }
 
 p {
-    color: crimson
+    color: crimson;
 }
 
 img {
@@ -17,5 +17,6 @@ img {
     margin-left: auto;
     margin-right: auto;
     width: 50%;
+    border: 1px solid #ddd;
 }
 
