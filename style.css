@@ -8,6 +8,10 @@ h1 {
     color: #f5aac7;
 }
 
+p {
+    color: crimson
+}
+
 img {
     display: block;
     margin-left: auto;
