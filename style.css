@@ -5,10 +5,10 @@ body {
 h1 {
     font-family: 'Josefin Sans', sans-serif;
     text-align: center;
-    color: #e66760;
+    color: #e27a74;
 }
 
-p {
+p, .a {
     font-family: 'Josefin Sans', sans-serif;
     color: rgb(238, 235, 235);
     text-align: center;
