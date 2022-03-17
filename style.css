@@ -1,11 +1,11 @@
-body {
+body {
     background-color: #171717;
 }
 
 h1 {
     font-family: 'Josefin Sans', sans-serif;
-    text-align: center
-    font-
+    text-align: center;
+    color: #f5aac7;
 }
 
 img {
@@ -13,6 +13,5 @@ img {
     margin-left: auto;
     margin-right: auto;
     width: 50%;
-
 }
 
