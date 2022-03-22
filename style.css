@@ -38,3 +38,6 @@ img {
     border: 1px solid #ddd;
 }
 
+.sparkle {
+    text-shadow: 1.5px 1.5px 4.5px #d6bcba; 
+}
