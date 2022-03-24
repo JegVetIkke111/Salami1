@@ -31,11 +31,11 @@ li {
 }
 
 a:link {
-    color: rgb(255, 232, 232);
+    color: rgb(255, 170, 170);
 }
 
 a:visited {
-    color: rgb(255, 170, 170);
+    color: rgb(255, 232, 232);
 }
 
 img {
