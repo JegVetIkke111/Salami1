@@ -17,7 +17,7 @@ p {
 }
 
 li {
-    text-align: center;
+    text-align: left;
     color: white;
     font-size: 23px;
     margin: 0;
@@ -25,8 +25,8 @@ li {
 	list-style: none;
 	background-image: url("https://lh3.googleusercontent.com/4BM0V-dN2tZaSO4aSCnMO0zl43yGod_OmQpvKJgYrrj8pXxuBdBhIivcjxnXk7gLsun5ZqmtHczp2jBqXIfUKFFhDdCX9mbCCsE1Jfoq2SanFpLPGauxR724Y2HLjs5t08WCO-tkSA=w2400");
 	background-repeat: no-repeat;
-	background-position: left center;
-	background-size: 40px;
+	background-position: center;
+	background-size: 50px;
     font-family: 'Josefin Sans', sans-serif;
 }
 
