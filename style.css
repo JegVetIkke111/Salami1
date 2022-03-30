@@ -45,9 +45,8 @@ img {
     width: 50%;
 }
 
-
 .home {
-
+    opacity: 0.5;
 }
 
 .sparkle {
