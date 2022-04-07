@@ -48,7 +48,7 @@ img {
 .home {
     opacity: 0.5;
     z-index: -1;
-    top: 10px
+    padding-top: 10px;
 }
 
 .sparkle {
