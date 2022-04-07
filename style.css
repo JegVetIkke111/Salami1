@@ -45,6 +45,13 @@ img {
     width: 50%;
 }
 
+.box {
+    height: 50px;
+    width: 100px; 
+    color:rgb(255, 232, 232)
+}
+
+
 .home {
     opacity: 0.5;
     z-index: -1;
