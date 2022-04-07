@@ -46,14 +46,7 @@ img {
 }
 
 .box {
-  color:rgb(255, 232, 232);
-  padding-top: 40px;
-  width:100px;
-  height:100px;
-  border:1px solid #000; 
-  position: relative;
-  text-align: center;
-}
+  
 
 
 .home {
