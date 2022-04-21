@@ -52,11 +52,11 @@ img {
 .salami_picture {
     padding-top: 0;
     opacity: 0.4;
-    width: 100%;
+    width: 98%;
     height: 25%;
     border-style: dotted;
     border-width: 5px;
-    border-color: rgb(255, 255, 255);
+    border-color: rgba(255, 255, 255, 1);
 }
 
 .first_h1 {
