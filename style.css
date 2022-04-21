@@ -52,14 +52,10 @@ img {
 
 .salami_picture {
     background-size: cover; 
-    height: 480px; 
     padding-top:80px;
     opacity: 0.4;
-    width: 100%
-}
-
-.white_part {
-    
+    width: 100%;
+    background-position: top center;
 }
 
 .first_h1 {
