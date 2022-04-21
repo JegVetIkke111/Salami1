@@ -7,6 +7,7 @@ h1 {
     text-align: center;
     color: #ee8d88;
     text-shadow: 1.5px 1.5px 4.5px #ca6d68; 
+    top: -8px
 }
 
 p {
@@ -63,4 +64,8 @@ img {
     display: block;
     margin-left: auto;
     margin-right: auto;
+}
+
+.white_part {
+    background-color:rgb(238, 235, 235);
 }
