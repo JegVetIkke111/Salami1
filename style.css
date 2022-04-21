@@ -51,7 +51,9 @@ img {
 }
 
 .salami_picture {
-    position: relative;
+    background-size: cover; 
+    height:480px; 
+    padding-top:80px;
     top: -32px;
     opacity: 0.5;
     width: 100%
