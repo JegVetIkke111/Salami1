@@ -45,22 +45,17 @@ img {
     width: 50%;
 }
 
-.box {
-    padding: 5px;
-    border: 2px solid #eea09b
-}
-
-.home {
-    opacity: 0.5;
-    z-index: -1;
-    position: relative;
-    top: 60px;
-}
-
 .sparkle {
     text-shadow: 1.5px 1.5px 4.5px #d6bcba; 
 }
 
 .salami_picture {
     
+}
+
+.rectangle {
+    height: 50px;
+    width: 100px;
+    z-index: -1;
+    color:rgb(209, 128, 128)
 }
