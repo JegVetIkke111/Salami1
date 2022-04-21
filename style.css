@@ -50,12 +50,15 @@ img {
 }
 
 .salami_picture {
-    
+    opacity: 0.8;
 }
 
 .rectangle {
     height: 150px;
     width: 100px;
     z-index: -1;
-    color:rgb(209, 128, 128)
+    color:rgb(209, 128, 128);
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
