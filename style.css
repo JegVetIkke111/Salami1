@@ -54,11 +54,11 @@ img {
     padding-top: 0;
     opacity: 0.4;
     width: 100%;
-    height: %;
+    height: 25%;
     background-position: top center;
     border-style: dotted;
     border-width: 5px;
-    border-color:rgb(255, 255, 255);
+    border-color: rgb(255, 255, 255);
 }
 
 .first_h1 {
