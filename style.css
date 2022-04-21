@@ -54,6 +54,7 @@ img {
     position: relative;
     top: -8px;
     opacity: 0.5;
+    width: 100%
 }
 
 .rectangle {
