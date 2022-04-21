@@ -59,8 +59,6 @@ img {
     border-style: dotted;
     border-width: 7px;
     border-color: rgba(255, 255, 255, 1);
-    -webkit-background-clip: padding-box; 
-    background-clip: padding-box;
 }
 
 .first_h1 {
