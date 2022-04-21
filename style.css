@@ -52,23 +52,18 @@ img {
 
 .salami_picture {
     background-size: cover; 
-    height:480px; 
+    height: 480px; 
     padding-top:80px;
-    top: -32px;
-    opacity: 0.5;
+    opacity: 0.4;
     width: 100%
 }
 
-.rectangle {
-    height: 150px;
-    width: 100px;
-    z-index: -1;
-    color:rgb(209, 128, 128);
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+.white_part {
 }
 
-.white_part {
-    background-color:rgb(238, 235, 235);
+.first_h1 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
 }
