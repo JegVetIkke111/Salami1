@@ -54,8 +54,11 @@ img {
     opacity: 0.4;
     width: 99.5%;
     height: 25%;
+}
+
+.salami_border {
     border-style: dotted;
-    border-width: 5px;
+    border-width: 10px;
     border-color: rgba(255, 255, 255, 1);
     -webkit-background-clip: padding-box; 
     background-clip: padding-box;
