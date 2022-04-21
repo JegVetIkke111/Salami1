@@ -54,7 +54,7 @@ img {
 }
 
 .rectangle {
-    height: 50px;
+    height: 150px;
     width: 100px;
     z-index: -1;
     color:rgb(209, 128, 128)
