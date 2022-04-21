@@ -58,7 +58,7 @@ img {
 
 .salami_border {
     border-style: dotted;
-    border-width: 10px;
+    border-width: 8px;
     border-color: rgba(255, 255, 255, 1);
     -webkit-background-clip: padding-box; 
     background-clip: padding-box;
