@@ -50,7 +50,7 @@ img {
 }
 
 .salami_picture {
-    padding-top: 0;
+    padding-top: 2px;
     width: 99.5%;
     height: 550px;
     opacity: 0.7;
