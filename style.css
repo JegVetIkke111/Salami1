@@ -55,11 +55,6 @@ img {
     height: 550px;
 }
 
-.salami_border {
-    border-style: dotted;
-    border-width: 7px;
-    border-color: rgba(255, 255, 255, 1);
-}
 
 .first_h1 {
     position: absolute;
