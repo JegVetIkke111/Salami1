@@ -68,5 +68,5 @@ img {
     padding-right: 100px;
     padding-top: 50px;
     padding-bottom: 50px;
-    text-align: left;
+    white-space: nowrap;
 }
