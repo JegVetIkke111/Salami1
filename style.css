@@ -53,6 +53,7 @@ img {
     height: 720px;
     opacity: 0.4;
     z-index: -1;
+    margin-top: 130px;
 }
 
 .first_h1 {
