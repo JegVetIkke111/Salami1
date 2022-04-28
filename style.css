@@ -54,6 +54,9 @@ img {
     height: 720px;
     opacity: 0.4;
     z-index: -1;
+    border-style: solid;
+    border-color:rgb(238, 235, 235);
+    border-width: 5px;
 }
 
 .first_h1 {
