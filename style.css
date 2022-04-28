@@ -5,8 +5,8 @@ body {
 h1 {
     font-family: 'Josefin Sans', sans-serif;
     text-align: center;
-    color: #000000;
-    text-shadow: 1.5px 1.5px 4.5px #ffffff; 
+    color: #ee8d88;
+    text-shadow: 1.5px 1.5px 4.5px #d98480; 
 }
 
 p {
@@ -51,11 +51,9 @@ img {
 .salami_picture {
     width: 99.5%;
     height: 720px;
+    opacity: 0.4;
     z-index: -1;
-    margin-top: 70px;
-    border-style: solid;
-    border-color: #ee8d88;
-    border-width: 50px;
+    margin-top: 130px;
 }
 
 .first_h1 {
