@@ -60,6 +60,9 @@ img {
 .first_h1 {
     position: absolute;
     top: 50%;
-    left: 50%;
+    left: 40%;
     transform: translate(-50%, -50%);
+    border-style: solid;
+    border-color:rgb(238, 235, 235);
+    border-width: 5px;
 }
