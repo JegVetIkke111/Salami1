@@ -48,8 +48,9 @@ img {
     text-shadow: 1.5px 1.5px 4.5px #8b7270; 
 }
 
-.small {
+.subheading {
     font-size: 25px;
+    accent-color: #ee8d88;
 }
 
 .salami_picture {
