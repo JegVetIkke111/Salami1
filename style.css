@@ -52,6 +52,8 @@ img {
     font-size: 25px;
     font-weight: bold;
     color: #ee8d88;
+    font-family: 'Inconsolata', monospace;
+    font-style: italic;
 }
 
 .salami_picture {
