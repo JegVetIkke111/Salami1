@@ -51,6 +51,7 @@ img {
 .subheading {
     font-size: 25px;
     font-weight: bold;
+    color: #ee8d88;
 }
 
 .salami_picture {
@@ -79,7 +80,6 @@ img {
 }
 
 .list_frame {
-    color: #ee8d88;
     border-style: solid;
     border-color:rgb(255, 232, 232);
     border-width: 5px;
