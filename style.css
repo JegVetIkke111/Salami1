@@ -90,8 +90,8 @@ img {
     border-width: 12px;
 }
 
-.star {
+.salami_image {
     border-radius: 20px;
-    text-align: left;
+    text-align: right;
     margin-left: -50px;
 }
