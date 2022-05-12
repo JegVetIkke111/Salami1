@@ -89,3 +89,24 @@ img {
     border-color:rgb(255, 232, 232);
     border-width: 12px;
 }
+
+.salami_picture {
+    width: 80px;
+    height: 80px;
+    position: relative;
+    text-align: center;
+}
+
+   .salami_picture::before {
+      transform: rotate(30deg);
+}
+  
+    .salami_picture::after {
+      transform: rotate(60deg);
+      content: '';
+     position: absolute;
+      top: 0;
+      left: 0;
+      height: 80px;
+      width: 80px;
+    }
