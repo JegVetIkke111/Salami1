@@ -93,5 +93,5 @@ img {
 .star {
     border-radius: 20px;
     text-align: left;
-    margin-left: 50px;
+    margin-left: -50px;
 }
