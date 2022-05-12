@@ -93,6 +93,5 @@ img {
 .star {
     border-radius: 20px;
     text-align: left;
-    top: 50px;
-    left: 50px;
+    margin-left: 50px;
 }
