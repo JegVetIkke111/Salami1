@@ -90,6 +90,8 @@ img {
 }
 
 .salami_image {
-    margin-left: 650px;
+    margin-left: 850px;
     margin-top: -515px;
+    width: 100px;
+    height: 100px;
 }
