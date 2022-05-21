@@ -84,10 +84,9 @@ img {
 }
 
 .list_frame {
-    border-style: solid;
+    border-style: dashed;
     border-color:rgb(223, 152, 152);
     border-width: 10px;
-    background-color:rgb(255, 232, 232);
 }
 
 .salami_image {
