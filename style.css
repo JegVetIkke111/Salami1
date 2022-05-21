@@ -87,6 +87,7 @@ img {
     border-style: solid;
     border-color:rgb(255, 232, 232);
     border-width: 12px;
+    background-color:rgb(255, 232, 232);
 }
 
 .salami_image {
