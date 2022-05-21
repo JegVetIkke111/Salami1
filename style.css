@@ -84,7 +84,7 @@ img {
 }
 
 .list_frame {
-    border-style: dashed;
+    border-style: outset;
     border-color:rgb(223, 152, 152);
     border-width: 10px;
 }
