@@ -87,4 +87,5 @@ img {
     border-color:rgb(168, 85, 85);
     border-width: 35px;
     background-color: #222222;
+    padding-top: -10px;
 }
