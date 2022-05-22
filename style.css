@@ -63,7 +63,7 @@ img {
     height: 680px;
     opacity: 0.4;
     z-index: -1;
-    vertical-align: top;
+    display: block;
 }
 
 .first_h1 {
@@ -80,6 +80,7 @@ img {
     padding-bottom: 50px;
     white-space: nowrap;
     font-weight: bold;
+    display: block;
 }
 
 .list_frame {
