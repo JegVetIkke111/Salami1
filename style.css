@@ -64,6 +64,7 @@ img {
     height: 670px;
     opacity: 0.4;
     z-index: -1;
+    display: block;
 }
 
 .first_h1 {
