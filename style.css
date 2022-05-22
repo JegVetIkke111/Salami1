@@ -64,8 +64,8 @@ img {
     height: 680px;
     opacity: 0.4;
     z-index: -1;
-    display: block;
     padding-top: 6px;
+    vertical-align: bottom;
 }
 
 .first_h1 {
