@@ -87,6 +87,5 @@ img {
 .list_frame {
     border-style: outset;
     border-color: #c97672;
-    border-width: 40px;
-    display: block;
+    border-width: 35px;
 }
