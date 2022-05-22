@@ -87,10 +87,5 @@ img {
     border-style: outset;
     border-color:rgb(189, 104, 104);
     border-width: 25px;
-}
-
-.salami_image {
-    margin-left: 850px;
-    margin-top: -550px;
-    border-radius: 25px;
+    width: 100%;
 }
