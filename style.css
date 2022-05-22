@@ -86,8 +86,7 @@ img {
 .list_frame {
     border-style: outset;
     border-color:rgb(126, 64, 64);
-    background-color: rgb(224, 189, 189);
-    border-width: 10px;
+    border-width: 20px;
 }
 
 .salami_image {
