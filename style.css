@@ -65,7 +65,6 @@ img {
     opacity: 0.4;
     z-index: -1;
     padding-top: 6px;
-    vertical-align: bottom;
 }
 
 .first_h1 {
@@ -88,5 +87,5 @@ img {
     border-style: outset;
     border-color: #c97672;
     border-width: 40px;
-    vertical-align: bottom;
+    display: block;
 }
