@@ -41,11 +41,6 @@ a:visited  {
     color: rgb(255, 232, 232);
 }
 
-img {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-}
 
 .sparkle {
     text-shadow: 1.5px 1.5px 4.5px #8b7270; 
@@ -65,6 +60,7 @@ img {
     opacity: 0.4;
     z-index: -1;
     padding-top: 6px;
+    display: block;
 }
 
 .first_h1 {
