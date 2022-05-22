@@ -88,4 +88,5 @@ img {
     border-style: outset;
     border-color: #c97672;
     border-width: 40px;
+    vertical-align: bottom;
 }
