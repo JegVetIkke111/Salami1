@@ -87,4 +87,6 @@ img {
     border-style: outset;
     border-color: #ee8d88;
     border-width: 45px;
+    position: relative;
+    padding-top: -10px;
 }
