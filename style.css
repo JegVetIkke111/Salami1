@@ -64,7 +64,7 @@ img {
     opacity: 0.4;
     z-index: -1;
     display: block;
-    border-style: solid;
+    padding-top: 5%;
 }
 
 .first_h1 {
