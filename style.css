@@ -130,5 +130,7 @@ iframe {
     border-style: dotted;
     border-color: #c97672;
     border-width: 20px;
+    text-align: left;
+
 }
 
