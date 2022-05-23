@@ -105,3 +105,8 @@ iframe {
     border-width: 5px;
     border-color:rgb(238, 165, 165);
 }
+
+.credits {
+    position: fixed;
+    bottom: 0;
+}
