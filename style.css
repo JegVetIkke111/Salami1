@@ -128,9 +128,7 @@ iframe {
 }
 
 .kahoot_info {
-    border-style: dotted;
-    border-color: #c97672;
-    border-width: 10px;
+    background-color: #c97672;
     text-align: left;
     line-height: 2;
 }
