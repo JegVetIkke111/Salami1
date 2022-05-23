@@ -90,6 +90,10 @@ img {
 }
 
 .paragraph_info {
-    line-height: 40px;
+    line-height: 38px;
     color:rgb(238, 235, 235);
+}
+
+#info {
+    text-decoration: underline;
 }
