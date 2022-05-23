@@ -125,7 +125,11 @@ iframe {
 .sussy_sausage {
     float: right;
     height: 550px;
-    width: 800px;
+    width: 750px;
+}
+
+.sussy_sausage:hover{
+    opacity: 0,5
 }
 
 .kahoot_info {
