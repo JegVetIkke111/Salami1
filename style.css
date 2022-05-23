@@ -117,3 +117,7 @@ iframe {
     padding-left: 0.5%;
     padding-right: 0.5%;
 }
+
+.move_right {
+    top: 20px;
+}
