@@ -119,8 +119,7 @@ iframe {
 }
 
 .move_right {
-    position: absolute;
-    right:300px;
+    right: 16px;
 }
 
 
