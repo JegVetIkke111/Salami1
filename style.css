@@ -97,7 +97,7 @@ img {
     text-align: left;
     border-left: rgb(255, 232, 232);
     border-left-width: 6px;
-    border-left-style: soild;
+    border-left-style: solid;
 }
 
 iframe {
@@ -107,6 +107,8 @@ iframe {
 }
 
 .credits {
-    position: fixed;
-    bottom: 0;
+    position: fixed;     
+    text-align: center;    
+    bottom: 0px; 
+    width: 100%;
 }
