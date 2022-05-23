@@ -126,7 +126,7 @@ iframe {
     float: right;
     height: 550px;
     width: 700px;
-    padding-left: 10px;
+    margin-left: 10px;
 }
 
 .kahoot_info {
