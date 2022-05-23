@@ -99,6 +99,7 @@ img {
     border-left: rgb(255, 232, 232);
     border-left-width: 6px;
     border-left-style: solid;
+    line-height: 2.5;
 }
 
 iframe {
@@ -132,6 +133,6 @@ iframe {
     border-color: #c97672;
     border-width: 20px;
     text-align: left;
-
+    line-height: 2.5;
 }
 
