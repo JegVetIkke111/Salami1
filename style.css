@@ -106,9 +106,14 @@ iframe {
     border-color:rgb(238, 165, 165);
 }
 
+
 .credits {
-    position: fixed;     
-    text-align: center;    
-    bottom: 0px; 
-    width: 100%;
+    position: relative;
+    float: left;
+    width: 91.5%;
+    height: 50px;
+    margin-left: 3.7%;
+    margin-right: 3.7%;
+    padding-left: 0.5%;
+    padding-right: 0.5%;
 }
