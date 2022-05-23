@@ -90,8 +90,8 @@ img {
 }
 
 #vids, #kahoot, #game {
-    border-top: 3px dashed #e6c6c5;
-    margin-top: 20px;
+    padding-top: 30px;
+    border-top: 3px dashed #e6c6c5;    
 }
 
 .text_info  {
