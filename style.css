@@ -95,7 +95,7 @@ img {
 
 .text_info  {
     text-align: left;
-    border-left:#c97672;
-    border-left-width: 5px;
+    border-left: rgb(255, 232, 232);
+    border-left-width: 8px;
     border-left-style: double;
 }
