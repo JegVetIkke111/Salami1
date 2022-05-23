@@ -12,8 +12,8 @@ h1 {
 p {
     font-family: 'Josefin Sans', sans-serif;
     color: rgb(238, 235, 235);
-    text-align: left;
-    font-size: 23px;
+    font-size: 25px;
+    line-height: 35px;
 }
 
 li {
@@ -86,12 +86,6 @@ img {
     border-color: #c97672;
     border-width: 35px;
     margin: 0;
-}
-
-.paragraph_info {
-    font-size: 25px;
-    line-height: 35px;
-    color:rgb(238, 235, 235);
 }
 
 #info {
