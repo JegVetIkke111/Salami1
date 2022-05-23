@@ -119,6 +119,11 @@ iframe {
 }
 
 .move_right {
+    float: right;
+}
+
+.center {
+    text-align: center;
 }
 
 
