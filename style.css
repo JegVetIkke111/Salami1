@@ -90,6 +90,5 @@ img {
 }
 
 .paragraph_info {
-    border-image: url(https://lh3.googleusercontent.com/854y7pIcTrOkG32hKBFYGfsgsBovBprqhrlOWTZ-zqkw7kMAiuJ749KTx9MLiKE7KmdF6tRbWjCqS_WkA8OJ73k7Ej_o46Xeybiw8Hxz1grYmY-wuOCWKLH3KCo330Dyj5GXQYaykg=s64-p-k);
-    border-image-width: 5px;
+    background-color: rgb(226, 128, 128);
 }
