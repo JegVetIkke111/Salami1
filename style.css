@@ -124,8 +124,6 @@ iframe {
 
 .sussy_sausage {
     float: right;
-    height: 1000px;
-    width: 1000px
 }
 
 .kahoot_info {
@@ -133,6 +131,6 @@ iframe {
     border-color: #c97672;
     border-width: 20px;
     text-align: left;
-    line-height: 2.5;
+    line-height: 2;
 }
 
