@@ -95,4 +95,6 @@ img {
 
 .text_info  {
     text-align: left;
+    border-left:#c97672;
+    border-left-width: 5px;
 }
