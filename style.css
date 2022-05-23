@@ -96,8 +96,8 @@ img {
 .text_info  {
     text-align: left;
     border-left: rgb(255, 232, 232);
-    border-left-width: 8px;
-    border-left-style: dotted;
+    border-left-width: 6px;
+    border-left-style: soild;
 }
 
 iframe {
