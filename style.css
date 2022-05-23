@@ -95,5 +95,5 @@ img {
 }
 
 #info {
-    text-decoration: underline;
+    border-bottom: 1px solid #ee8d88;
 }
