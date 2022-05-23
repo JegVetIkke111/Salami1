@@ -14,9 +14,6 @@ p {
     color: rgb(238, 235, 235);
     text-align: left;
     font-size: 23px;
-    border-style: dotted;
-    border-width: 5px;
-    border-color:rgb(238, 235, 235);
 }
 
 li {
@@ -90,4 +87,9 @@ img {
     border-width: 35px;
     top: -20px;
     margin: 0;
+}
+
+.paragraph_info {
+    border-image: url(https://lh3.googleusercontent.com/854y7pIcTrOkG32hKBFYGfsgsBovBprqhrlOWTZ-zqkw7kMAiuJ749KTx9MLiKE7KmdF6tRbWjCqS_WkA8OJ73k7Ej_o46Xeybiw8Hxz1grYmY-wuOCWKLH3KCo330Dyj5GXQYaykg=s64-p-k);
+    border-width: 5px;
 }
