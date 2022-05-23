@@ -101,7 +101,7 @@ img {
 }
 
 iframe {
-    border-style: solid;
+    border-style: outset;
     border-width: 5px;
-    border-color:rgb(238, 235, 235);
+    border-color:rgb(238, 165, 165);
 }
