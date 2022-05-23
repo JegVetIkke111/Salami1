@@ -91,6 +91,7 @@ img {
 
 #vids, #kahoot, #game {
     border-top: 3px dashed #e6c6c5;
+    padding-top: 6px;
 }
 
 .text_info  {
@@ -116,6 +117,7 @@ iframe {
     margin-right: 3.7%;
     padding-left: 0.5%;
     padding-right: 0.5%;
+    text-align: left;
 }
 
 .move_right {
