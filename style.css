@@ -99,3 +99,9 @@ img {
     border-left-width: 8px;
     border-left-style: dotted;
 }
+
+iframe {
+    border-style: solid;
+    border-width: 5px;
+    border-color:rgb(238, 235, 235);
+}
