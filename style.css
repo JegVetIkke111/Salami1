@@ -89,8 +89,8 @@ img {
     margin: 0;
 }
 
-#info {
-    border-bottom: 3px dashed #ba6a66;
+#info, #vids, #kahoot, #game {
+    border-bottom: 3px dashed #e6c6c5;
 }
 
 .text_info  {
