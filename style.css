@@ -91,7 +91,7 @@ img {
 
 #vids, #kahoot, #game {
     border-top: 3px dashed #e6c6c5;
-    padding-top: 6px;
+    margin-top: 20px;
 }
 
 .text_info  {
