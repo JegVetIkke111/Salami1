@@ -93,4 +93,6 @@ img {
     border-bottom: 3px dashed #ba6a66;
 }
 
-#kahoot, #game
+.text_info  {
+    text-align: left;
+}
