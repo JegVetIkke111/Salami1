@@ -3,14 +3,14 @@ body {
 }
 
 h1 {
-    font-family: 'Roboto Mono', monospace;
+    font-family: 'Kanit', sans-serif;
     text-align: center;
     color: #ee8d88;
     text-shadow: 1.5px 1.5px 4.5px #854d4a; 
 }
 
 p {
-    font-family: 'Roboto Mono', monospace;
+    font-family: 'Kanit', sans-serif;
     color: rgb(238, 235, 235);
     font-size: 25px;
     line-height: 35px;
@@ -92,3 +92,5 @@ img {
 #info {
     border-bottom: 3px dashed #ba6a66;
 }
+
+#kahoot, #game
