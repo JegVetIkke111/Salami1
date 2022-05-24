@@ -121,6 +121,7 @@ iframe {
     margin-right: 3.7%;
     padding-left: 0.5%;
     padding-right: 0.5%;
+    background-color:rgb(238, 165, 165);
 }
 
 .move_right, .scratch_text {
@@ -138,18 +139,12 @@ iframe {
     border-color:#e6c6c5;
 }
 
-.sussy_sausage:hover, .salami_game:hover{
-    opacity: 0.8;
-}
-
 .kahoot_info {
     text-align: left;
     line-height: 2;
     margin-top: -10px;
     display: inline-flex;
-    border-style: double;
-    border-color:#c97672;
-    border-width: 15px;
+    background-color:rgb(238, 165, 165);
 }
 
 .salami_game {
@@ -166,8 +161,12 @@ iframe {
     line-height: 2;
     margin-top: -10px;
     display: inline-flex;
-    border-style: dotted;
-    border-width: 13px;
-    border-color: #c97672;
-    background-color: #c97672;
+    border-style: double;
+    border-color:#c97672;
+    border-width: 15px;
+    
+}
+
+.sussy_sausage:hover, .salami_game:hover{
+    opacity: 0.8;
 }
