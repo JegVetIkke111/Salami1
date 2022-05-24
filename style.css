@@ -162,4 +162,7 @@ iframe {
     line-height: 2;
     margin-top: -10px;
     display: inline-flex;
+    border-style: dotted;
+    border-width: 8px;
+    border-color: #c97672;
 }
