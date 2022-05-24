@@ -129,11 +129,11 @@ iframe {
 
 .sussy_sausage {
     float: right;
-    height: 569px;
+    height: 555px;
     width: 700px;
     top: -8.5px;
     position: relative; 
-    border-style: solid;
+    border-style: outset;
     border-width: 4px;
     border-color:#e6c6c5;
 }
@@ -148,7 +148,7 @@ iframe {
 
 .salami_game {
     width: 700px;
-    height: 555px;
+    height: 558px;
     border-style: outset;
     border-width: 10px;
     border-color: #e6c6c5;;
