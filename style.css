@@ -114,13 +114,9 @@ iframe {
 }
 
 .credits {
-    position: relative;
-    float: center; 
-    font-size: 16px;
-    margin-left: 3.7%;
-    margin-right: 3.7%;
-    padding-left: 0.5%;
-    padding-right: 0.5%;
+    position: fixed;
+    bottom: 0;
+    text-align: center;
 }
 
 .move_right, .scratch_text {
