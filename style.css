@@ -138,7 +138,7 @@ iframe {
     line-height: 2;
     margin-top: -10px;
     display: inline-flex;
-    border-style: dashed;
+    border-style: dotted;
     border-color:rgb(238, 165, 165);
     border-width: 15px;
 }
