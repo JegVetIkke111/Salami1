@@ -115,13 +115,12 @@ iframe {
 
 .credits {
     position: relative;
-    text-align: center; 
+    float: center; 
     font-size: 16px;
     margin-left: 3.7%;
     margin-right: 3.7%;
     padding-left: 0.5%;
     padding-right: 0.5%;
-    background-color:rgb(238, 165, 165);
 }
 
 .move_right, .scratch_text {
