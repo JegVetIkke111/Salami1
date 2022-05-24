@@ -150,8 +150,8 @@ iframe {
 }
 
 .salami_game {
-    width: 500px;
-    height: 500px;
+    width: 575px;
+    height: 550px;
     border-style: outset;
     border-width: 8px;
     border-color: #c97672;
@@ -164,6 +164,6 @@ iframe {
     margin-top: -10px;
     display: inline-flex;
     border-style: dotted;
-    border-width: 8px;
+    border-width: 15px;
     border-color: #c97672;
 }
