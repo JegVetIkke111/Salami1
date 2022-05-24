@@ -111,10 +111,6 @@ iframe {
 .credits {
     position: relative;
     float: center;
-    margin-left: 3.7%;
-    margin-right: 3.7%;
-    padding-left: 0.5%;
-    padding-right: 0.5%;
     font-size: 16px;
     background-color:#c97672;
 }
