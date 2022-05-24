@@ -115,7 +115,7 @@ iframe {
     font-size: 16px;
 }
 
-.move_right {
+.move_right, .scratch_text {
     float: right;
 }
 
