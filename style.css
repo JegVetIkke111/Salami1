@@ -151,3 +151,10 @@ iframe {
     border-width: 8px;
     border-color: #c97672;
 }
+
+.scratch_text {
+    text-align: right;
+    line-height: 2;
+    margin-top: -10px;
+    display: inline-flex;
+}
