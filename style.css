@@ -131,7 +131,7 @@ iframe {
     position: relative; 
 }
 
-.sussy_sausage:hover{
+.sussy_sausage:hover, .salami_game:hover{
     opacity: 0.5;
 }
 
@@ -145,3 +145,10 @@ iframe {
     border-width: 15px;
 }
 
+.salami_game {
+    width: 500px;
+    height: 500px;
+    border-style: outset;
+    border-width: 5px;
+    border-color: #c97672;
+}
