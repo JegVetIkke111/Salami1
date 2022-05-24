@@ -114,8 +114,10 @@ iframe {
 }
 
 .credits {
-    position: fixed;
-    bottom: 0;
+    padding-bottom: 10px;
+	padding-top: 10px;
+	text-align: center;
+	bottom: 0px;
     text-align: center;
 }
 
