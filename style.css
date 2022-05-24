@@ -110,7 +110,7 @@ iframe {
 
 .credits {
     position: relative;
-    float: center;
+    text-align: center; 
     font-size: 16px;
     background-color:#c97672;
 }
