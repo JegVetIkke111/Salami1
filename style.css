@@ -48,12 +48,17 @@ img {
     text-shadow: 1.5px 1.5px 4.5px #8b7270; 
 }
 
-.subheading {
+.subheading_1 {
     font-size: 30px;
     font-weight: bold;
     font-family: 'Dancing Script';
     font-style: italic;
     color: rgb(255, 232, 232);
+}
+
+.subheading_2 {
+    font-size: 28px;
+    font-weight: bold;
 }
 
 .salami_picture {
