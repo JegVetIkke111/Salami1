@@ -15,7 +15,7 @@ iframe {
    /* Media Query for Mobile Devices */
    @media (max-width: 480px) {
         iframe {
-            height: 450px;
+            height: 400px;
             width: 380px;
         }
 }
@@ -23,7 +23,7 @@ iframe {
 /* Media Query for low resolution  Tablets, Ipads */
 @media (min-width: 481px) and (max-width: 767px) {
     iframe {
-        height: 500px;
+        height: 480px;
         width: 500px;
     }
 }
