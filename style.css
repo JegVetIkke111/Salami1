@@ -177,10 +177,11 @@ iframe {
     .first_h1 {
         font-size: 20px;
         border-width: 5px;
-        padding-left: 50px;
-        padding-right: 50px;
-        padding-top: 50px;
-        padding-bottom: 50px;
+        padding-left: 40px;
+        padding-right: 40px;
+        padding-top: 30px;
+        padding-bottom: 30px;
+        position: relative;
     }
     
     .subheading_1 {
