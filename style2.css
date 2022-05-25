@@ -15,7 +15,7 @@ iframe {
    /* Media Query for Mobile Devices */
    @media (max-width: 480px) {
         iframe {
-            height: 300px;
+            height: 400px;
             width: 383px;
         }
 }
