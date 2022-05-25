@@ -107,6 +107,12 @@ img {
     line-height: 2;
 }
 
+iframe {
+    border-style: outset;
+    border-width: 15px;
+    border-color:rgb(238, 165, 165);
+}
+
 .credits {
     padding-bottom: -10px;
 	padding-top: 10px;
