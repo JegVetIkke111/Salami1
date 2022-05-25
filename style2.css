@@ -22,7 +22,7 @@ iframe {
   
 /* Media Query for low resolution  Tablets, Ipads */
 @media (min-width: 481px) and (max-width: 767px) {
-    body {
+    iframe {
         height: 500px;
         width: 500px;
     }
@@ -30,7 +30,9 @@ iframe {
   
 /* Media Query for Tablets Ipads portrait mode */
 @media (min-width: 768px) and (max-width: 1024px){
-    body {
+    iframe {
+        height: 600px;
+        width: 600px;
     }
 }
   
