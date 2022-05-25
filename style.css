@@ -177,7 +177,7 @@ iframe {
     }
 
     .first_h1 {
-        font-size: 25px;
+        font-size: 20px;
         border-width: 5px;
         position: relative;
         position: absolute;
@@ -188,7 +188,7 @@ iframe {
     }
     
     .subheading_1 {
-        font-size: 20px;
+        font-size: 15px;
     }
 }
   
