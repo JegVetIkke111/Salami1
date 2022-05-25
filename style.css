@@ -177,6 +177,10 @@ iframe {
     .first_h1 {
         font-size: 20px;
     }
+    
+    .subheading_1 {
+        font-size: 20px;
+    }
 }
   
 /* Media Query for low resolution  Tablets, Ipads */
