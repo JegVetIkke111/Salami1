@@ -177,18 +177,16 @@ iframe {
     }
 
     .first_h1 {
-        font-size: 20px;
         border-width: 5px;
         position: relative;
         position: absolute;
-        top: 30%;
-        left:50%;
-        transform:translate(-50%, -50%);
-        -webkit-transform:translate(-50%, -50%);
+        top: 25%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        -webkit-transform: translate(-50%, -50%);
     }
     
     .subheading_1 {
-        font-size: 15px;
     }
 }
   
