@@ -173,6 +173,10 @@ iframe {
     .salami_picture {
         height: 300px;
     }
+
+    .first_h1 {
+        font-size: 20px;
+    }
 }
   
 /* Media Query for low resolution  Tablets, Ipads */
