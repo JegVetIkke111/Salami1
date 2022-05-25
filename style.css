@@ -193,7 +193,13 @@ iframe {
     .subheading_1 {
         font-size: 18px;
     }
+
+    .iframe {
+        width: 500px;
+        height: 500px;
+    }
 }
+
   
 /* Media Query for low resolution  Tablets, Ipads */
 @media (min-width: 481px) and (max-width: 767px) {
