@@ -171,7 +171,7 @@ iframe {
   /* Media Query for Mobile Devices */
   @media (max-width: 480px) {
     .salami_picture {
-
+        height: 200px;
     }
 }
   
