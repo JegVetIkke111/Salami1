@@ -257,17 +257,13 @@ iframe {
     }
 
     .kahoot_info {
-        float: center !important;
-        display: block;
-        text-align: center;
+        float: left !important;
     }
 
     .sussy_sausage {
         width: 1000px;
         height: 600px;
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
+        float: left !important;
     }
 
     .salami_game {
