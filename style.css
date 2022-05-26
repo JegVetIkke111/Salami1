@@ -293,6 +293,11 @@ iframe {
         width: 426px;
         height: 300px;
     }
+
+    iframe {
+        width: 530px;
+        height: 500px;
+    }
 }
   
 /* Media Query for Large screens */
