@@ -259,21 +259,25 @@ iframe {
     .kahoot_info {
         float: center !important;
         display: block;
+        text-align: center;
     }
 
     .sussy_sausage {
         width: 650px;
         height: 600px;
+        float: center !important;
     }
 
     .salami_game {
         height: 600px;
         width: 650px;
+        float: center !important;
     }
 
     .scratch_text {
         float: center !important;
         display: block;
+        text-align: center;
     }
 }
 
