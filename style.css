@@ -197,20 +197,28 @@ iframe {
     iframe {
         width: 350px;
         height: 400px;
-        box-align: center;
-        position: absolute;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
     }
 
     .sussy_sausage {
         height: 320px;
         width: 360px;
-        box-align: center;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
     }
 
     .salami_game {
         height: 320px;
         width: 360px;
-        box-align: center;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
     }
     
 }
