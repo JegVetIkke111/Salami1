@@ -383,8 +383,7 @@ iframe {
         width: 607px;
     }
 }
-  
-/*@media (min-width: 1280px) {
+  @media (min-width: 1305px) {
     iframe {
         width: 720px;
         height: 515px;
