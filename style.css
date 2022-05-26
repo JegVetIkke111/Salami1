@@ -263,14 +263,15 @@ iframe {
         height: 500px;
         width: 720px;
         float: right !important;
-        margin-left: 250px;
+        margin-left: 280px;
     }
 
     .scratch_text {
-        margin-left: 250px;
+        margin-left: 280px;
     }
 }
 
+1150
   
 /* Media Query for Large screens */
 @media (min-width: 1281px) {
