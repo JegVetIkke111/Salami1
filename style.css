@@ -268,6 +268,7 @@ iframe {
 
     .scratch_text {
         margin-left: 280px;
+        display: block;
     }
 }
 
