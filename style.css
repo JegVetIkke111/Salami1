@@ -219,9 +219,7 @@ iframe {
     }
 
     .move_right {
-        display: block !important;
-        margin-left: auto !important;
-        margin-right: auto !important;
+        float: center !important;
     }
     
 }
