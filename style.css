@@ -220,6 +220,10 @@ iframe {
         margin-right: auto;
         width: 50%;
     }
+
+    .move_right {
+        content: none;
+    }
     
 }
 
