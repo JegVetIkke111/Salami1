@@ -238,7 +238,7 @@ iframe {
     
 }
   
-@media (min-width: 1025px) and (max-width: 1300px){
+@media (min-width: 1025px) and (max-width: 1400px){
     iframe {
         width: 475px;
         height: 400px;
@@ -246,12 +246,13 @@ iframe {
 
     .kahoot_info {
         display: inline-block;
+        float: center !important;
     }
 
     .sussy_sausage {
         width: 626px;
         height: 500px;
-        float: left !important;
+        float: center !important;
         margin-bottom: 25px;
         margin-right: 600px;
     }
@@ -259,13 +260,14 @@ iframe {
     .salami_game {
         height: 500px;
         width: 719.5px;
-        float: right !important;
+        float: center !important;
         margin-bottom: 25px;
         margin-left: 550px;
     }
 
     .scratch_text {
-        display: inline-block;
+        text-align: center !important;
+        float: center !important;
     }
 
     .credits {
