@@ -291,35 +291,6 @@ iframe {
     }
 }
 
-@media (min-width: 1300px) {
-    .sussy_sausage {
-        width: 500px;
-    }
-
-    .salami_game {
-        width: 425px;
-    }
-
-    iframe {
-        width: 562px;
-        height: 500px;
-    }
-}
-
-@media (min-width: 1400px) {
-    .sussy_sausage {
-
-    }
-
-    .salami_game {
-        width: 440px;
-    }
-
-    iframe {
-        width: 569px;
-    }
-}
-
 @media (min-width: 1230px) and (max-width: 1245px) {
     .sussy_sausage {
         width: 530px;
