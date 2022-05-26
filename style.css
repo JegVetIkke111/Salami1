@@ -245,8 +245,9 @@ iframe {
     }
 
     .kahoot_info {
-        text-align: center !important;
-        float: center !important;
+        margin: auto;
+        width: 50%;
+        padding: 10px;
     }
 
     .sussy_sausage {
