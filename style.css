@@ -256,12 +256,12 @@ iframe {
         width: 626px;
         height: 500px;
         float: left !important;
-        margin-right: 250px;
+        margin-right: 300px;
     }
 
     .salami_game {
         height: 500px;
-        width: 723px;
+        width: 722px;
         float: right !important;
     }
 
