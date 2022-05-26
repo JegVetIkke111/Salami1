@@ -220,6 +220,7 @@ iframe {
     .move_right {
         float: center !important;
         display: block;
+        padding-left: 10px;
     }
 
     .kahoot_info br {
@@ -232,8 +233,6 @@ iframe {
     
 }
 
-
-  
 /* Media Query for low resolution  Tablets, Ipads */
 @media (min-width: 481px) and (max-width: 767px) {
    
