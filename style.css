@@ -302,7 +302,8 @@ iframe {
 
 @media (min-width: 1215px) {
     .sussy_sausage {
-        object-fit: cover;
+        display: inline-block;
+        margin: 0;
     }
 
     .salami_game {
