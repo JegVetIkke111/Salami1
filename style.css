@@ -271,7 +271,7 @@ iframe {
     .scratch_text {
         display: block;
         float: center;
-        text-align: justify !important;
+        text-align: center !important;
     }
 }
 
