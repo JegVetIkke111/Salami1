@@ -245,38 +245,27 @@ iframe {
     }
 
     .kahoot_info {
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
-        width: 50%;
+        display: inline-block;
     }
 
     .sussy_sausage {
         width: 626px;
         height: 500px;
+        float: left !important;
         margin-bottom: 25px;
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
-        width: 50%;
+        margin-right: 600px;
     }
 
     .salami_game {
         height: 500px;
         width: 719.5px;
+        float: right !important;
         margin-bottom: 25px;
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
-        width: 50%;
+        margin-left: 550px;
     }
 
     .scratch_text {
-        text-align: center !important;
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
-        width: 50%;
+        display: inline-block;
     }
 
     .credits {
