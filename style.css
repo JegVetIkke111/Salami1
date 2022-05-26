@@ -260,13 +260,17 @@ iframe {
 
     .salami_game {
         height: 500px;
-        width: 675px;
+        width: 700px;
         float: right !important;
         margin-bottom: 25px;
     }
 
     .scratch_text {
         display: inline-block;
+    }
+
+    .credits {
+        margin-top: 1000px;
     }
 }
 
