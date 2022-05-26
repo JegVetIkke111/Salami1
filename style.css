@@ -222,7 +222,7 @@ iframe {
     }
 
     .move_right {
-        content: none;
+        float: left;
     }
     
 }
