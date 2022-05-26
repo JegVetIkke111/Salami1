@@ -247,6 +247,7 @@ iframe {
     .kahoot_info {
         display: block;
         text-align: center;
+        float: center;
     }
 
     .sussy_sausage {
@@ -255,6 +256,7 @@ iframe {
         margin-bottom: 25px;
         float: center;
         max-width: 100%
+        display: block;
     }
 
     .salami_game {
@@ -262,7 +264,8 @@ iframe {
         width: 719.5px;
         margin-bottom: 25px;
         float: center;
-        max-width: 100%
+        max-width: 100%;
+        display: block;
     }
 
     .scratch_text {
