@@ -327,9 +327,23 @@ iframe {
         width: 577px;
     }
 }
+
+@media (min-width: 1245) and (max-width: 1260px) {
+    .sussy_sausage {
+        width: 530px;
+    }
+
+    .salami_game {
+        width: 455px;
+    }
+
+    iframe {
+        width: 600px;
+    }
+}
   
 /* Media Query for Large screens */
-@media (min-width: 1281px) {
+@media (min-width: 1280px) {
     iframe {
         width: 720px;
         height: 515px;
