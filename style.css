@@ -245,7 +245,7 @@ iframe {
     }
 
     .kahoot_info {
-        display: inline-block;
+        text-align: center !important;
         float: center !important;
     }
 
