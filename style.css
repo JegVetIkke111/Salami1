@@ -259,7 +259,7 @@ iframe {
 
     .salami_game {
         height: 500px;
-        width: 670px;
+        width: 700px;
         float: right !important;
     }
 
@@ -268,7 +268,7 @@ iframe {
     }
 
     .fix {
-        top: 200px;
+        top: -200px;
     }
 }
 
