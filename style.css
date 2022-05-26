@@ -289,8 +289,10 @@ iframe {
 
 
 @media (min-width: 1200) and (max-width: 1281px) {
-
-
+    iframe {
+        width: 530px;
+        height: 400px;
+    }
 }
   
 /* Media Query for Large screens */
