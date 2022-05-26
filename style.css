@@ -203,12 +203,12 @@ iframe {
 
     .sussy_sausage {
         height: 320px;
-        width: 500px;
+        width: 400px;
     }
 
     .salami_game {
         height: 320px;
-        width: 500px;
+        width: 400px;
     }
 }
 
@@ -234,5 +234,8 @@ iframe {
   
 /* Media Query for Large screens */
 @media (min-width: 1281px) {
-    
+    iframe {
+        width: 720px;
+        height: 515px;
+    }
 }
