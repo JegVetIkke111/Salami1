@@ -199,7 +199,7 @@ iframe {
         height: 400px;
         display: block;
         margin-left: auto;
-        margin-right: auto
+        margin-right: auto;
     }
 
     .sussy_sausage {
@@ -219,6 +219,7 @@ iframe {
     }
 
     .move_right {
+        align-content: center !important;
         display: block;
         padding-right: 10px;
     }
