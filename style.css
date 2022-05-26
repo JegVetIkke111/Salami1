@@ -248,7 +248,8 @@ iframe {
 
     .kahoot_info {
         float: left !important;
-        margin-right: 50px;
+        margin-right: 100px;
+        text-align: left;
     }
 
     .sussy_sausage {
@@ -265,8 +266,10 @@ iframe {
     }
 
     .scratch_text {
-        margin
+        margin-top: 50px;
     }
+
+
     
 }
 
