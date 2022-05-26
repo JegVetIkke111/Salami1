@@ -247,7 +247,6 @@ iframe {
     }
 
     .kahoot_info {
-        margin-right: 450px;
         display: inline-block;
     }
 
@@ -255,7 +254,6 @@ iframe {
         width: 626px;
         height: 500px;
         float: left !important;
-        margin-right: 450px;
         margin-bottom: 25px;
     }
 
@@ -263,12 +261,10 @@ iframe {
         height: 500px;
         width: 620px;
         float: right !important;
-        margin-left: 450px;
         margin-bottom: 25px;
     }
 
     .scratch_text {
-        margin-left: 425px;
         display: inline-block;
     }
 }
