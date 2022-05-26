@@ -291,6 +291,11 @@ iframe {
         height: 519px;
     }
 
+    .salami_game {
+        width: 500px;
+
+    }
+
     iframe {
         width: 562px;
         height: 500px;
