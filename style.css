@@ -200,7 +200,6 @@ iframe {
         display: block;
         margin-left: auto;
         margin-right: auto;
-        width: 50%;
     }
 
     .sussy_sausage {
@@ -209,7 +208,6 @@ iframe {
         display: block;
         margin-left: auto;
         margin-right: auto;
-        width: 50%;
     }
 
     .salami_game {
@@ -218,14 +216,12 @@ iframe {
         display: block;
         margin-left: auto;
         margin-right: auto;
-        width: 50%;
     }
 
     .move_right {
         display: block !important;
         margin-left: auto !important;
         margin-right: auto !important;
-        width: 50% !important;
     }
     
 }
