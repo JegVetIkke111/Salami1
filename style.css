@@ -221,7 +221,6 @@ iframe {
     .move_right {
         align-content: center !important;
         display: block;
-        padding-right: 10px;
     }
 
     .kahoot_info br {
