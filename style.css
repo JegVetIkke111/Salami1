@@ -240,7 +240,7 @@ iframe {
     
 }
   
-@media (min-width: 1025px) and (max-width: 1198px){
+@media (min-width: 1025px) and (max-width: 1199px){
     iframe {
         width: 475px;
         height: 400px;
@@ -275,20 +275,20 @@ iframe {
     }
 }
 
-@media (min-width: 1075px) {
+@media (min-width: 1075px) and (max-width: 1133px){
     iframe {
         width: 500px;
     }
 }
 
-@media (min-width: 1133px) {
+@media (min-width: 1133px) and (max-width: 1200) {
     iframe {
         width: 527px;
     }
 }
 
 
-@media (min-width: 1198) and (max-width: 1281px) {
+@media (min-width: 1200) and (max-width: 1281px) {
     .sussy_sausage {
         width: 426px;
         height: 300px;
