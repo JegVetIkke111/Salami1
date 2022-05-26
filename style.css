@@ -285,6 +285,11 @@ iframe {
     }
 }
 
+@media (min-width: 1025px) {
+    iframe {
+        height: 500px;
+    }
+}
 
 @media (min-width: 1230px) and (max-width: 1245px) {
     .sussy_sausage {
