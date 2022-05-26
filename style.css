@@ -466,6 +466,15 @@ iframe {
     }
 }
 
+@media (min-width: 1450px) {
 
+}
+
+@media (min-width: 1500px) {
+    .sussy_sausage {
+    height: 520px;
+    width: 770px;
+    }
+}
 
     
