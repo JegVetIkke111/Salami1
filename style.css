@@ -257,7 +257,7 @@ iframe {
         height: 500px;
         float: left !important;
         margin-right: 450px;
-        margin-bottom: 50px;
+        margin-bottom: 25px;
     }
 
     .salami_game {
@@ -265,12 +265,13 @@ iframe {
         width: 620px;
         float: right !important;
         margin-left: 450px;
-        margin-bottom: 50px;
+        margin-bottom: 25px;
     }
 
     .scratch_text {
         margin-left: 450px;
         float: right !important;
+        text-align: right;
         display: block;
     }
 }
