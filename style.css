@@ -215,7 +215,7 @@ iframe {
     }
 
     .move_right {
-        float: left;
+        float: left !important;
     }
 
     .kahoot_info br {
@@ -245,46 +245,33 @@ iframe {
     }
 
     .kahoot_info {
-        display: block;
-        float: center;
-        text-align: center;
+        display: inline-block;
     }
 
     .sussy_sausage {
         width: 626px;
         height: 500px;
+        float: left !important;
         margin-bottom: 25px;
-        float: center;
-        display: block;
-
+        margin-right: 500px;
     }
 
     .salami_game {
         height: 500px;
         width: 719.5px;
+        float: right !important;
         margin-bottom: 25px;
-        float: center;
-        display: block;
+        margin-left: 450px;
     }
 
     .scratch_text {
-        position: fixed;
-        display: block !important;
-        float: center !important;
-        text-align: center !important;
-        display:flex; justify-content: center;
+        display: inline-block;
     }
 
-    .kahoot_info br {
-        display: none;
-    }
-
-    .scratch_text br {
-        display: none;
+    .credits {
+        margin-top: 1000px;
     }
 }
-
-/*
 
 @media (min-width: 1075px) and (max-width: 1133px){
     iframe {
@@ -305,7 +292,8 @@ iframe {
 }
 
 
-@media (min-width: 1300px) {
+
+/*@media (min-width: 1300px) {
     .sussy_sausage {
         width: 500px;
     }
