@@ -222,7 +222,11 @@ iframe {
         display: block;
     }
 
-    .kahoot_info, .scratch_text br {
+    .kahoot_info br {
+        display: none;
+    }
+
+    .scratch_text br {
         display: none;
     }
     
