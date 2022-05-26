@@ -266,6 +266,7 @@ iframe {
         float: center;
         max-width: 100%;
         display: block;
+        padding-left: 600px;
     }
 
     .scratch_text {
