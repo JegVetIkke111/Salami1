@@ -245,9 +245,7 @@ iframe {
     }
 
     .kahoot_info {
-        line-height: 1.5;
-        display: inline-block;
-        vertical-align: middle;
+        display: block;
     }
 
     .sussy_sausage {
