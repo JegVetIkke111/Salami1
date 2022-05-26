@@ -254,7 +254,7 @@ iframe {
         width: 626px;
         height: 500px;
         margin-bottom: 25px;
-        float: center;
+        float: center !important;
         display:block;
         margin-left: 800px;
 
@@ -269,8 +269,8 @@ iframe {
     }
 
     .scratch_text {
-        display: block;
-        float: center;
+        display: block !important;
+        float: center !important;
         text-align: center !important;
     }
 }
