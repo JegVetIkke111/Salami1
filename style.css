@@ -240,7 +240,7 @@ iframe {
     
 }
   
-@media (min-width: 1025px) and (max-width: 1149px){
+@media (min-width: 1025px) and (max-width: 1179px){
     iframe {
         width: 475px;
         height: 400px;
@@ -282,7 +282,7 @@ iframe {
 }
 
 
-@media (min-width: 1160px) and (max-width: 1281px) {
+@media (min-width: 1180) and (max-width: 1281px) {
 
 }
   
