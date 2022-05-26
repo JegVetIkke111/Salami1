@@ -222,7 +222,10 @@ iframe {
     }
 
     .move_right {
-        float: left !important;
+        display: block !important;
+        margin-left: auto !important;
+        margin-right: auto !important;
+        width: 50% !important;
     }
     
 }
