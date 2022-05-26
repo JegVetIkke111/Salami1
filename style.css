@@ -276,6 +276,14 @@ iframe {
         text-align: center !important;
         display:flex; justify-content: center;
     }
+
+    .kahoot_info br {
+        display: none;
+    }
+
+    .scratch_text br {
+        display: none;
+    }
 }
 
 /*
