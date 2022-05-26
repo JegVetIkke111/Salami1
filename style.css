@@ -273,6 +273,8 @@ iframe {
     }
 }
 
+/*
+
 @media (min-width: 1075px) and (max-width: 1133px){
     iframe {
         width: 500px;
