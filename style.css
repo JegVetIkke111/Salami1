@@ -262,12 +262,14 @@ iframe {
         width: 719.5px;
         margin-bottom: 25px;
         float: center;
+        transform: translate(-50%, -50%);
+        display: block;
     }
 
     .scratch_text {
         display: block;
         padding: 70px 0 !important;
-        text-align: center !important;
+        text-align: justify !important;
     }
 }
 
