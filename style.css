@@ -196,9 +196,11 @@ iframe {
 
     iframe {
         width: 350px;
-        height: 700px;
+        height: 500px;
         float: left;
         text-align: left;
+        display: block;
+        margin: auto;
     }
 
     .sussy_sausage {
