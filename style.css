@@ -288,7 +288,7 @@ iframe {
 }
 
 
-@media (min-width: 1200) and (max-width: 1281px) {
+@media (min-width: 1200px) and (max-width: 1281px) {
     .sussy_sausage {
         width: 200px;
         height: 200px;
