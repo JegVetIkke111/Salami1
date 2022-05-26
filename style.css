@@ -302,7 +302,8 @@ iframe {
 
 @media (min-width: 1215px) and (max-width: 1230px) {
     .sussy_sausage {
-        width: fit-content;
+        object-fit: contain;
+        width: 100%
     }
 
     .salami_game {
