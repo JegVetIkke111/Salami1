@@ -257,17 +257,17 @@ iframe {
     }
 
     .kahoot_info {
+        float: center !important;
     }
 
     .sussy_sausage {
-        float: center !important;
     }
 
     .salami_game {
-        float: center !important;
     }
 
     .scratch_text {
+        float: center !important;
     }
 }
 
