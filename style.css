@@ -245,7 +245,7 @@ iframe {
     }
 
     .kahoot_info {
-        display: inline-block;
+        display: block;
     }
 
     .sussy_sausage {
@@ -265,7 +265,7 @@ iframe {
     }
 
     .scratch_text {
-        display: inline-block;
+        display: block;
     }
 
     .credits {
