@@ -219,8 +219,7 @@ iframe {
     }
 
     .move_right {
-        align-content: center !important;
-        display: block;
+        box-align: center !important;
     }
 
     .kahoot_info br {
