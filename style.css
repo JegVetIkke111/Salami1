@@ -221,6 +221,10 @@ iframe {
         float: center !important;
         display: block;
     }
+
+    .kahoot_info, .scratch_text br {
+        display: none;
+    }
     
 }
 
