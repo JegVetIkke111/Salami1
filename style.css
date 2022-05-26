@@ -272,6 +272,7 @@ iframe {
         display: block;
         float: center;
         text-align: center !important;
+        padding-left: 500px;
     }
 }
 
