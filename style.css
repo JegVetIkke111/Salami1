@@ -248,26 +248,28 @@ iframe {
 
     .kahoot_info {
         margin-right: 450px;
+        display: inline-block;
     }
 
     .sussy_sausage {
         width: 626px;
         height: 500px;
-        float: left !important;
         margin-right: 450px;
         margin-bottom: 25px;
+        display: inline-block;
     }
 
     .salami_game {
         height: 500px;
         width: 620px;
-        float: right !important;
         margin-left: 450px;
         margin-bottom: 25px;
+        display: inline-block;
     }
 
     .scratch_text {
         margin-left: 425px;
+        display: inline-block;
     }
 }
 
