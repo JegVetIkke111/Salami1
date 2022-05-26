@@ -197,23 +197,20 @@ iframe {
     iframe {
         width: 350px;
         height: 400px;
-        float: left;
+        box-align: center;
         position: absolute;
-        margin: auto;
     }
 
     .sussy_sausage {
         height: 320px;
         width: 360px;
+        box-align: center;
     }
 
     .salami_game {
         height: 320px;
         width: 360px;
-    }
-
-    .scratch_text, .kahoot_info br { 
-        content: ' ';
+        box-align: center;
     }
     
 }
