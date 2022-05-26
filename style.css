@@ -270,6 +270,7 @@ iframe {
     }
 
     .scratch_text {
+        position: fixed;
         display: block !important;
         float: center !important;
         text-align: center !important;
