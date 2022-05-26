@@ -285,7 +285,15 @@ iframe {
     }
 }
 
-@media (min-width: 1200px) {
+@media (min-with: 1200px) and (max-width: 1300px) {
+    iframe {
+        width: 600px;
+    }
+}
+
+
+
+@media (min-width: 1300px) {
     .sussy_sausage {
         width: 500px;
     }
@@ -300,11 +308,10 @@ iframe {
     }
 }
 
-@media (min-width: 1215px) {
+@media (min-width: 1400px) {
     .sussy_sausage {
         display: inline-block;
         margin: 0;
-        width: 1000px;
     }
 
     .salami_game {
@@ -316,7 +323,7 @@ iframe {
     }
 }
 
-/*@media (min-width: 1230px) and (max-width: 1245px) {
+@media (min-width: 1230px) and (max-width: 1245px) {
     .sussy_sausage {
         width: 530px;
     }
