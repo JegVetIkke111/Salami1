@@ -238,7 +238,7 @@ iframe {
     
 }
   
-@media (min-width: 1025px) and (max-width: 1199px){
+@media (min-width: 1025px) and (max-width: 1200px){
     iframe {
         width: 475px;
         height: 400px;
@@ -279,13 +279,13 @@ iframe {
     }
 }
 
-@media (min-width: 1133px) and (max-width: 1199px) {
+@media (min-width: 1133px) and (max-width: 1200px) {
     iframe {
         width: 530px;
     }
 }
 
-@media (min-width: 1199px) and (max-width: 1281px) {
+@media (min-width: 1200px) and (max-width: 1281px) {
     .sussy_sausage {
         width: 500px;
     }
@@ -300,7 +300,7 @@ iframe {
     }
 }
 
-@media (min-width: 1215px) {
+@media (min-width: 1215px) and (max-width: 1230px) {
     .sussy_sausage {
         width: 515px;
     }
@@ -311,6 +311,20 @@ iframe {
 
     iframe {
         width: 569px;
+    }
+}
+
+@media (min-width: 1230px) and (max-width: 1245px) {
+    .sussy_sausage {
+        width: 530px;
+    }
+
+    .salami_game {
+        width: 460px;
+    }
+
+    iframe {
+        width:  
     }
 }
   
