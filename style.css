@@ -355,9 +355,22 @@ iframe {
         width: 593px;
     }
 }
+
+@media (min-width: 1275px) and (max-width: 1290px) {
+    .sussy_sausage {
+        width: 575px;
+    }
+
+    .salami_game {
+        width: 495px;
+    }
+
+    iframe {
+        width: 598px;
+    }
+}
   
-/* Media Query for Large screens */
-@media (min-width: 1280px) {
+/*@media (min-width: 1280px) {
     iframe {
         width: 720px;
         height: 515px;
