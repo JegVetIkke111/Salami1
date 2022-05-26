@@ -285,7 +285,7 @@ iframe {
     }
 }
 
-@media (min-with: 1200px) and (max-width: 1300px) {
+@media (min-width: 1200px) and (max-width: 1300px) {
     iframe {
         width: 600px;
     }
