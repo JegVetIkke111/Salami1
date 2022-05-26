@@ -197,9 +197,7 @@ iframe {
     iframe {
         width: 350px;
         height: 400px;
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
+        float: left !important;
     }
 
     .sussy_sausage {
@@ -219,7 +217,7 @@ iframe {
     }
 
     .move_right {
-        float: center !important;
+        float: left !important;
     }
 
     .kahoot_info br {
