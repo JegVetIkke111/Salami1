@@ -280,8 +280,8 @@ iframe {
 
     .scratch_text {
         float: center !important;
-        text-align: center;
-        display: block;
+        text-align: center !important;
+        display: block !important;
     }
 }
 
