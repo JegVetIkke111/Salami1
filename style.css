@@ -198,6 +198,7 @@ iframe {
         width: 350px;
         height: 400px;
         float: center !important;
+        display: block;
     }
 
     .sussy_sausage {
@@ -218,6 +219,7 @@ iframe {
 
     .move_right {
         float: center !important;
+        display: block;
     }
     
 }
