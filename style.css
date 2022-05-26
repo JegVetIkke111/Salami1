@@ -198,8 +198,7 @@ iframe {
         width: 350px;
         height: 500px;
         float: left;
-        text-align: left;
-        display: block;
+        position: absolute;
         margin: auto;
     }
 
@@ -212,6 +211,11 @@ iframe {
         height: 320px;
         width: 380px;
     }
+
+    .scratch_text, .kahoot_info br { 
+        content: ' ';
+    }
+    
 }
 
 
