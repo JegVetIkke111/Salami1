@@ -220,7 +220,7 @@ iframe {
     .move_right {
         float: center !important;
         display: block;
-        padding-left: 10px;
+        padding-right: 10px;
     }
 
     .kahoot_info br {
