@@ -256,7 +256,8 @@ iframe {
         margin-bottom: 25px;
         float: center;
         display:block;
-        padding-left: 500px;
+        
+        margin-left: 800px;
 
     }
 
