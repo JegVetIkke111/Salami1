@@ -370,7 +370,19 @@ iframe {
     }
 }
 
-@media (min-width: 1290px) and (max-width: 1305px)
+@media (min-width: 1290px) and (max-width: 1305px) {
+    .sussy_sausage {
+        width: 605px;
+    }
+
+    .salami_game {
+        width: 428px;
+    }
+
+    iframe {
+        width: 630px;
+    }
+}
   
 /*@media (min-width: 1280px) {
     iframe {
