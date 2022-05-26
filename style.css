@@ -386,7 +386,8 @@ iframe {
 
   @media (min-width: 1305px) {
     iframe {
-        width: 720px;
+        width: 100%;
         height: 515px;
+
     }
 }
