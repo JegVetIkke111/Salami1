@@ -129,7 +129,7 @@ iframe {
     float: right;
     height: 520px;
     width: 770px;
-    top: -8.5px;
+    top: -8.4px;
     position: relative; 
     border-style: outset;
     border-width: 15px;
@@ -288,7 +288,7 @@ iframe {
 @media (min-width: 1199px) and (max-width: 1281px) {
     .sussy_sausage {
         width: 500px;
-        height: 521px;
+        height: 520px;
     }
 
     .salami_game {
