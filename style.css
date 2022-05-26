@@ -263,7 +263,7 @@ iframe {
     }
 
     .sussy_sausage {
-        width: 950px;
+        width: 1000px;
         height: 600px;
         display: block;
         margin-left: auto;
@@ -273,15 +273,7 @@ iframe {
     .salami_game {
         height: 600px;
         width: 650px;
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
-    }
-
-    .scratch_text {
-        float: center !important;
-        text-align: center !important;
-        display: block !important;
+        float: right !important;
     }
 }
 
