@@ -264,6 +264,10 @@ iframe {
         width: 721px;
         float: right !important;
     }
+
+    .scratch_text {
+        margin-left: 100px;
+    }
 }
 
   
