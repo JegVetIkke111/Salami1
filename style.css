@@ -244,7 +244,17 @@ iframe {
 @media (min-width: 1025px) and (max-width: 1280px){
     iframe {
         width: 500px;
-        height: 600px;
+        height: 400px;
+    }
+
+    .sussy_sausage {
+        height: 400px;
+        width: 400px;
+    }
+
+    .salami_game {
+        height: 400px; 
+        width: 400px;
     }
 }
   
