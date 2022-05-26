@@ -198,7 +198,8 @@ iframe {
         width: 350px;
         height: 700px;
         float: left;
-    }
+        text-align: left;
+    
 }
 
   
@@ -214,7 +215,10 @@ iframe {
   
 /* Media Query for Laptops and Desktops */
 @media (min-width: 1025px) and (max-width: 1280px){
-    .iframe width="720" height="515"
+    .iframe {
+        width: 720px;
+        height: 515px;
+    }
 }
   
 /* Media Query for Large screens */
