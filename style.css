@@ -266,6 +266,10 @@ iframe {
     .scratch_text {
         margin-top: 200px;
     }
+
+    .fix {
+        top: 200px;
+    }
 }
 
   
