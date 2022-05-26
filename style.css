@@ -263,11 +263,11 @@ iframe {
         height: 500px;
         width: 720px;
         float: right !important;
-        margin-left: 280px;
+        margin-left: 400px;
     }
 
     .scratch_text {
-        margin-left: 280px;
+        margin-left: 400px;
         float: right !important;
         display: block;
     }
