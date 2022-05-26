@@ -251,7 +251,7 @@ iframe {
     }
 
     .sussy_sausage {
-        width: 630px;
+        width: 627px;
         height: 500px;
         float: left !important;
     }
@@ -260,6 +260,10 @@ iframe {
         height: 600px;
         width: 650px;
         float: right !important;
+    }
+
+    .scratch_text {
+        padding-top: 20px;
     }
 }
 
