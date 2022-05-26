@@ -275,6 +275,13 @@ iframe {
     }
 }
 
+@media (min-width: 1050px) and (min-width: 1150) {
+    iframe {
+        width: 500px;
+    }
+}
+
+
 @media (min-width: 1150px) and (max-width: 1281px) {
 
 }
