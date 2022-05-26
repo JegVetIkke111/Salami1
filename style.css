@@ -372,7 +372,7 @@ iframe {
 
 @media (min-width: 1290px) and (max-width: 1305px) {
     .sussy_sausage {
-        width: 590px;
+        width: 100%;
     }
 
     .salami_game {
@@ -386,8 +386,8 @@ iframe {
 
   @media (min-width: 1305px) {
     iframe {
-        width: 100%;
+        width: 720px;
         height: 515px;
-
+        
     }
 }
