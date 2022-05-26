@@ -251,20 +251,20 @@ iframe {
     }
 
     .sussy_sausage {
-        width: 626px;
+        /*width: 626px;*/
         height: 500px;
         margin-bottom: 25px;
         float: center;
-        max-width: 100%;
+        width: 100%;
         display: block;
     }
 
     .salami_game {
         height: 500px;
-        width: 719.5px;
+        /*width: 719.5px;*/
         margin-bottom: 25px;
         float: center;
-        max-width: 100%;
+        width: 100%;
         display: block;
     }
 
