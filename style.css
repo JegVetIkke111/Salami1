@@ -255,6 +255,9 @@ iframe {
         height: 500px;
         margin-bottom: 25px;
         float: center;
+        display:block;
+        padding-left: 500px;
+
     }
 
     .salami_game {
@@ -262,7 +265,6 @@ iframe {
         width: 719.5px;
         margin-bottom: 25px;
         float: center;
-        transform: translate(-50%, -50%);
         display: block;
     }
 
