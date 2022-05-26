@@ -245,7 +245,9 @@ iframe {
     }
 
     .kahoot_info {
-        margin: auto;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
         width: 50%;
     }
 
@@ -253,20 +255,28 @@ iframe {
         width: 626px;
         height: 500px;
         margin-bottom: 25px;
-        margin: auto;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
     }
 
     .salami_game {
         height: 500px;
         width: 719.5px;
-        float: center !important;
         margin-bottom: 25px;
-        margin: auto;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
     }
 
     .scratch_text {
         text-align: center !important;
-        margin: auto;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
     }
 
     .credits {
