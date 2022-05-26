@@ -199,8 +199,19 @@ iframe {
         height: 700px;
         float: left;
         text-align: left;
-    
+    }
+
+    .sussy_sausage {
+        height: 320px;
+        width: 500px;
+    }
+
+    .salami_game {
+        height: 320px;
+        width: 500px;
+    }
 }
+
 
   
 /* Media Query for low resolution  Tablets, Ipads */
