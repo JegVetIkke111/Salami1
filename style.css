@@ -215,7 +215,7 @@ iframe {
     }
 
     .move_right {
-        float: left !important;
+        float: left;
     }
 
     .kahoot_info br {
