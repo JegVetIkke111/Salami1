@@ -260,7 +260,7 @@ iframe {
 
     .salami_game {
         height: 500px;
-        width: 730px;
+        width: 725px;
         float: right !important;
         margin-bottom: 25px;
         margin-left: 400px;
@@ -275,7 +275,7 @@ iframe {
     }
 }
 
-@media (min-width: 1050px) and (min-width: 1150px) {
+@media (min-width: 1060px) and (min-width: 1150px) {
     iframe {
         width: 500px;
     }
