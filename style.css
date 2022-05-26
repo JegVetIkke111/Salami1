@@ -424,7 +424,18 @@ iframe {
 }
 
 @media (min-width: 1345px) and (max-width: 1360px) {
+    .sussy_sausage {
+        width: 605px;
+    }
 
+    .salami_game {
+        width: 530px;
+    }
+
+    iframe {
+        width: 616px;
+    }
+}
 
 @media (min-width: 1360px) and (max-width: 1375px) {
 
