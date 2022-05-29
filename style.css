@@ -338,20 +338,6 @@ iframe {
     }
 }
 
-@media only screen and (min-width: 1345px) {
-    .kahoot_pic {
-        width: 646px;
-    }
-
-    .salami_game_pic {
-        width: 570px;
-    }
-
-    iframe {
-        width: 635px;
-    }
-}
-
 @media only screen and (min-width: 1375px) {
     .kahoot_pic {
         width: 675px;
