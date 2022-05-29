@@ -308,38 +308,22 @@ iframe {
 }
 
 
-@media (min-width: 1230px) and (max-width: 1245px) {
+@media (min-width: 1230px) and (max-width: 1260px) {
     .kahoot_pic {
-        width: 530px;
+        min-width: 530px;
+        max-width: 545px;
     }
 
     .salami_game_pic {
-        width: 455px;
+        min-width: 455px;
+        max-width: 470px;
     }
 
     iframe {
-        width: 577px;
+        min-width: 577px;
+        max-width: 586px;
     }
-    img, iframe {
-        max-width: 100%;
-    }
-}
-
-@media (min-width: 1245px) and (max-width: 1260px) {
-    .kahoot_pic {
-        width: 545px;
-    }
-
-    .salami_game_pic {
-        width: 470px;
-    }
-
-    iframe {
-        width: 586px;
-    }
-    img, iframe {
-        max-width: 100%;
-    }
+   
 }
 
 @media (min-width: 1260px) and (max-width: 1275px) {
