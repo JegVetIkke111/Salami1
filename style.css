@@ -267,24 +267,24 @@ iframe {
 }
 
 /*Bigger pc*/
-@media (min-width: 1200px) and (max-width: 1824px){
+@media (min-width: 1200px) and (max-width: 1600px){
     .kahoot_pic {
         width: 500px;
     }
 
     .salami_game_pic {
         min-width: 425px;
-        max-width: 700px;
+        max-width: 600px;
     }
 
     iframe {
-        width: 562px;
-        height: 500px;
+        min-width: 562px;
+        min-height: 500px;
     }
 }
 
 /*The biggest pcs out there*/ 
-@media (min-width: 1824) {
+@media (min-width: 1600px) {
 
 }
 
