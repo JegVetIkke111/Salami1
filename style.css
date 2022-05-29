@@ -489,13 +489,11 @@ iframe {
 /*Biggest screens*/
 @media only screen and (min-width : 1824px) {
     .kahoot_pic {
-        height: 800px;
         width: 800px;
     }
 
     .salami_game_pic {
         width: 800px;
-        height: 800px;
     }
 
     iframe {
