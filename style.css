@@ -467,11 +467,11 @@ iframe {
 
 @media only screen and (min-width: 1824px) {
     .kahoot_pic {
-        width: 850px;
+        width: 950px;
     }
 
     .salami_game_pic {
-        width: 900px;
+        width: 1000px;
     }
 
     iframe {
