@@ -230,7 +230,7 @@ iframe {
     
 }
   /*Normal PC*/
-@media (min-width: 1025px) and (max-width: 1300px){
+@media (min-width: 1025px) and (max-width: 1200px){
     iframe {
         min-width: 475px;
         max-width: 530px;
@@ -267,9 +267,9 @@ iframe {
 }
 
 /*Bigger pc*/
-@media (min-width: 1300px) and (max-width: 1600px){
+@media (min-width: 1200px) and (max-width: 1600px){
     .kahoot_pic {
-        width: 500px;
+        max-width: 500px;
     }
 
     .salami_game_pic {
@@ -278,12 +278,12 @@ iframe {
     }
 
     iframe {
-        min-width: 562px;
+        max-width: 100%;
         min-height: 500px;
     }
 }
 
-/*The biggest pcs out there*/ 
+/*The biggest*/ 
 @media (min-width: 1600px) {
 
 }
