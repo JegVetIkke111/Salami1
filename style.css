@@ -523,6 +523,7 @@ iframe {
     height: 520px;
     width: 770px;
     }
+
     .salami_game_pic {
     width: 700px;
     height: 559px;
@@ -530,6 +531,10 @@ iframe {
 
     iframe {
         width: 700px;
+    }
+
+    img, iframe {
+        max-width: 100%;
     }
 
 }
@@ -547,6 +552,10 @@ iframe {
 
     iframe {
         width: 900px;
+    }
+
+    img, iframe {
+        max-width: 100%;
     }
 }
 
