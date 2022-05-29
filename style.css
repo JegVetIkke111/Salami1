@@ -463,6 +463,10 @@ iframe {
         width: 870px;
     }
 
+    .kahoot_info {
+        line-height: 3;
+    }
+
     .salami_game_pic {
         width: 850px;
     }
