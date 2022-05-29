@@ -230,7 +230,7 @@ iframe {
     
 }
   /*Normal PC*/
-@media (min-width: 1025px) and (max-width: 1200px){
+@media (min-width: 1025px) and (max-width: 1300px){
     iframe {
         min-width: 475px;
         max-width: 530px;
@@ -267,7 +267,7 @@ iframe {
 }
 
 /*Bigger pc*/
-@media (min-width: 1200px) and (max-width: 1600px){
+@media (min-width: 1300px) and (max-width: 1600px){
     .kahoot_pic {
         width: 500px;
     }
