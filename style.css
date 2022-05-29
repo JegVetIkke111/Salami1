@@ -229,10 +229,11 @@ iframe {
     }
     
 }
-  /*PC*/
+  /*Normal PC*/
 @media (min-width: 1025px) and (max-width: 1200px){
     iframe {
-        width: 475px;
+        min-width: 475px;
+        max-width: 530px;
         height: 400px;
     }
 
@@ -265,25 +266,15 @@ iframe {
     }
 }
 
-@media (min-width: 1075px) and (max-width: 1133px){
-    iframe {
-        width: 500px;
-    }
-}
-
-@media (min-width: 1133px) and (max-width: 1200px) {
-    iframe {
-        width: 530px;
-    }
-}
-
-@media (min-width: 1200px) {
+/*Bigger pc*/
+@media (min-width: 1200px) and (max-width: 1824px){
     .kahoot_pic {
         width: 500px;
     }
 
     .salami_game_pic {
-        width: 425px;
+        min-width: 425px;
+        max-width: 700px;
     }
 
     iframe {
@@ -292,6 +283,12 @@ iframe {
     }
 }
 
+/*The biggest pcs out there*/ 
+@media (min-width: 1824) {
+
+}
+
+/*
 @media (min-width: 1215px) {
 
     .salami_game_pic {
