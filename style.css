@@ -460,7 +460,15 @@ iframe {
 
 @media only screen and (min-width: 1700px) {
     .kahoot_pic {
+        width: 700px;
+    }
 
+    .salami_game_pic {
+        width: 800px;
+    }
+
+    iframe {
+        width: 900px;
     }
 
 }
@@ -468,6 +476,7 @@ iframe {
 @media only screen and (min-width: 1824px) {
     .kahoot_pic {
         width: 800px;
+        height: 620
     }
 
     .salami_game_pic {
