@@ -170,6 +170,7 @@ iframe {
     opacity: 0.8;
 }
 
+  /* Media Query for Mobile Devices */
   @media (max-width: 480px) {
     .salami_picture {
         height: 300px;
@@ -229,7 +230,7 @@ iframe {
     
 }
   /*PC*/
-@media (min-width: 1025px) {
+@media (min-width: 1025px) and (max-width: 1200px){
     iframe {
         width: 475px;
         height: 400px;
@@ -264,13 +265,13 @@ iframe {
     }
 }
 
-@media (min-width: 1075px) {
+@media (min-width: 1075px) and (max-width: 1133px){
     iframe {
         width: 500px;
     }
 }
 
-@media (min-width: 1133px) {
+@media (min-width: 1133px) and (max-width: 1200px) {
     iframe {
         width: 530px;
     }
@@ -300,9 +301,14 @@ iframe {
     iframe {
         width: 569px;
     }
+    img {
+        max-width: 100%;
+        height:auto
+    }
 }
 
-@media (min-width: 1230px) {
+/*
+@media (min-width: 1230px) and (max-width: 1245px) {
     .kahoot_pic {
         width: 530px;
     }
@@ -316,7 +322,7 @@ iframe {
     }
 }
 
-@media (min-width: 1245px) {
+@media (min-width: 1245px) and (max-width: 1260px) {
     .kahoot_pic {
         width: 545px;
     }
@@ -330,7 +336,7 @@ iframe {
     }
 }
 
-@media (min-width: 1260px) {
+@media (min-width: 1260px) and (max-width: 1275px) {
     .kahoot_pic {
         width: 560px;
     }
@@ -344,7 +350,7 @@ iframe {
     }
 }
 
-@media (min-width: 1275px) {
+@media (min-width: 1275px) and (max-width: 1290px) {
     .kahoot_pic {
         width: 575px;
     }
@@ -358,7 +364,7 @@ iframe {
     }
 }
 
-@media (min-width: 1290px) {
+@media (min-width: 1290px) and (max-width: 1305px) {
     .kahoot_pic {
         width: 590px;
     }
@@ -372,7 +378,7 @@ iframe {
     }
 }
 
-@media only screen and (min-width: 1305px) {
+@media only screen and (min-width: 1305px) and (max-width: 1315px) {
     .kahoot_pic {
         width: 605px;
     }
@@ -386,7 +392,7 @@ iframe {
     }
 }
 
-@media only screen and (min-width: 1315px) {
+@media only screen and (min-width: 1315px) and (max-width: 1330px) {
     .kahoot_pic {
         width: 614px;
     }
@@ -400,7 +406,7 @@ iframe {
     }
 }
 
-@media only screen and (min-width: 1330px) {
+@media only screen and (min-width: 1330px) and (max-width: 1345px) {
     .kahoot_pic {
         width: 631px;
     }
@@ -414,7 +420,7 @@ iframe {
     }
 }
 
-@media only screen and (min-width: 1345px) {
+@media only screen and (min-width: 1345px) and (max-width: 1360px) {
     .kahoot_pic {
         width: 646px;
     }
@@ -429,7 +435,7 @@ iframe {
 }
 
 
-@media only screen and (min-width: 1360px) {
+@media only screen and (min-width: 1360px) and (max-width: 1375px) {
     .kahoot_pic {
         width: 659px;
     }
@@ -443,7 +449,7 @@ iframe {
     }
 }
 
-@media only screen and (min-width: 1375px) {
+@media only screen and (min-width: 1375px) and (max-width: 1400px) {
     .kahoot_pic {
         width: 675px;
     }
@@ -486,19 +492,20 @@ iframe {
     }
 
 }
-/*Biggest screens*/
+
 @media only screen and (min-width : 1824px) {
     .kahoot_pic {
-        width: 1500px;
+        height: 800px;
+        width: 800px;
     }
 
     .salami_game_pic {
-        width: 1500px;
+        width: 800px;
+        height: 800px;
     }
 
     iframe {
-        width: 875px;
-        height: 800px;
+        width: 900px;
     }
 }
 
