@@ -301,13 +301,14 @@ iframe {
     iframe {
         width: 569px;
     }
-    img {
+
+    img, iframe {
         max-width: 100%;
         height:auto
     }
 }
 
-/*
+
 @media (min-width: 1230px) and (max-width: 1245px) {
     .kahoot_pic {
         width: 530px;
@@ -319,6 +320,10 @@ iframe {
 
     iframe {
         width: 577px;
+    }
+    img, iframe {
+        max-width: 100%;
+        height:auto
     }
 }
 
@@ -334,6 +339,10 @@ iframe {
     iframe {
         width: 586px;
     }
+    img, iframe {
+        max-width: 100%;
+        height:auto
+    }
 }
 
 @media (min-width: 1260px) and (max-width: 1275px) {
@@ -347,6 +356,10 @@ iframe {
 
     iframe {
         width: 593px;
+    }
+    img, iframe {
+        max-width: 100%;
+        height:auto
     }
 }
 
@@ -362,6 +375,10 @@ iframe {
     iframe {
         width: 600px;
     }
+    img, iframe {
+        max-width: 100%;
+        height:auto
+    }
 }
 
 @media (min-width: 1290px) and (max-width: 1305px) {
@@ -375,6 +392,10 @@ iframe {
 
     iframe {
         width: 607px;
+    }
+    img, iframe {
+        max-width: 100%;
+        height:auto
     }
 }
 
@@ -390,6 +411,10 @@ iframe {
     iframe {
         width: 615px;
     }
+    img, iframe {
+        max-width: 100%;
+        height:auto
+    }
 }
 
 @media only screen and (min-width: 1315px) and (max-width: 1330px) {
@@ -403,6 +428,10 @@ iframe {
 
     iframe {
         width: 620px;
+    }
+    img, iframe {
+        max-width: 100%;
+        height:auto
     }
 }
 
@@ -418,6 +447,10 @@ iframe {
     iframe {
         width: 627px;
     }
+    img, iframe {
+        max-width: 100%;
+        height:auto
+    }
 }
 
 @media only screen and (min-width: 1345px) and (max-width: 1360px) {
@@ -431,6 +464,10 @@ iframe {
 
     iframe {
         width: 635px;
+    }
+    img, iframe {
+        max-width: 100%;
+        height:auto
     }
 }
 
@@ -446,6 +483,10 @@ iframe {
 
     iframe {
         width: 643px;
+    }
+    img, iframe {
+        max-width: 100%;
+        height:auto
     }
 }
 
