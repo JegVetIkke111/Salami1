@@ -170,7 +170,6 @@ iframe {
     opacity: 0.8;
 }
 
-  /* Media Query for Mobile Devices */
   @media (max-width: 480px) {
     .salami_picture {
         height: 300px;
@@ -229,7 +228,7 @@ iframe {
     }
     
 }
-  /*PC*/
+
 @media (min-width: 1025px) and (max-width: 1200px){
     iframe {
         min-width: 475px;
@@ -460,6 +459,9 @@ iframe {
 }
 
 @media only screen and (min-width: 1700px) {
+    .kahoot_pic {
+
+    }
 
 }
 
@@ -475,7 +477,7 @@ iframe {
     }
 
     iframe {
-        width: 900px;
+        width: 870px;
     }
 }
 
