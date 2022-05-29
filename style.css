@@ -479,8 +479,8 @@ iframe {
 
 @media only screen and (min-width: 1824px) {
     .kahoot_pic {
-        width: 800px;
-        height: 620px;
+        width: 1000px;
+        height: 820px;
     }
 
     .kahoot_info {
@@ -490,9 +490,10 @@ iframe {
     .scratch_text {
         line-height: 3
     }
-    
+
     .salami_game_pic {
         width: 1000px;
+        height: 900px;
     }
 
     iframe {
