@@ -99,7 +99,7 @@ img {
     border-top: 3px dashed #e6c6c5;    
 }
 
-.text_info  {
+.salami_info  {
     text-align: left;
     border-left: rgb(255, 232, 232);
     border-left-width: 6px;
@@ -125,7 +125,7 @@ iframe {
     float: right;
 }
 
-.sussy_sausage {
+.kahoot_pic {
     float: right;
     height: 520px;
     width: 770px;
@@ -144,7 +144,7 @@ iframe {
     background-color: #c97672;
 }
 
-.salami_game {
+.salami_game_pic {
     width: 700px;
     height: 559px;
     border-style: outset;
@@ -164,7 +164,7 @@ iframe {
     
 }
 
-.sussy_sausage:hover, .salami_game:hover{
+.kahoot_pic:hover, .salami_game_pic:hover{
     opacity: 0.8;
 }
 
@@ -200,13 +200,13 @@ iframe {
         float: left !important;
     }
 
-    .sussy_sausage {
+    .kahoot_pic {
         height: 320px;
         width: 340px;
 
     }
 
-    .salami_game {
+    .salami_game_pic {
         height: 320px;
         width: 340px;
         display: block;
@@ -227,17 +227,7 @@ iframe {
     }
     
 }
-
-/* Media Query for low resolution  Tablets, Ipads */
-@media (min-width: 481px) and (max-width: 767px) {
-   
-}
-  
-/* Media Query for Tablets Ipads portrait mode */
-@media (min-width: 768px) and (max-width: 1024px){
-    
-}
-  
+  /*PC*/
 @media (min-width: 1025px) and (max-width: 1200px){
     iframe {
         width: 475px;
@@ -248,7 +238,7 @@ iframe {
         display: inline-block;
     }
 
-    .sussy_sausage {
+    .kahoot_pic {
         width: 626px;
         height: 500px;
         float: left !important;
@@ -256,7 +246,7 @@ iframe {
         margin-right: 500px;
     }
 
-    .salami_game {
+    .salami_game_pic {
         height: 500px;
         width: 719.5px;
         float: right !important;
@@ -286,11 +276,11 @@ iframe {
 }
 
 @media (min-width: 1200px) {
-    .sussy_sausage {
+    .kahoot_pic {
         width: 500px;
     }
 
-    .salami_game {
+    .salami_game_pic {
         width: 425px;
     }
 
@@ -302,7 +292,7 @@ iframe {
 
 @media (min-width: 1215px) {
 
-    .salami_game {
+    .salami_game_pic {
         width: 440px;
     }
 
@@ -312,11 +302,11 @@ iframe {
 }
 
 @media (min-width: 1230px) and (max-width: 1245px) {
-    .sussy_sausage {
+    .kahoot_pic {
         width: 530px;
     }
 
-    .salami_game {
+    .salami_game_pic {
         width: 455px;
     }
 
@@ -326,11 +316,11 @@ iframe {
 }
 
 @media (min-width: 1245px) and (max-width: 1260px) {
-    .sussy_sausage {
+    .kahoot_pic {
         width: 545px;
     }
 
-    .salami_game {
+    .salami_game_pic {
         width: 470px;
     }
 
@@ -340,11 +330,11 @@ iframe {
 }
 
 @media (min-width: 1260px) and (max-width: 1275px) {
-    .sussy_sausage {
+    .kahoot_pic {
         width: 560px;
     }
 
-    .salami_game {
+    .salami_game_pic {
         width: 487px;
     }
 
@@ -354,11 +344,11 @@ iframe {
 }
 
 @media (min-width: 1275px) and (max-width: 1290px) {
-    .sussy_sausage {
+    .kahoot_pic {
         width: 575px;
     }
 
-    .salami_game {
+    .salami_game_pic {
         width: 498px;
     }
 
@@ -368,11 +358,11 @@ iframe {
 }
 
 @media (min-width: 1290px) and (max-width: 1305px) {
-    .sussy_sausage {
+    .kahoot_pic {
         width: 590px;
     }
 
-    .salami_game {
+    .salami_game_pic {
         width: 515px;
     }
 
@@ -381,12 +371,12 @@ iframe {
     }
 }
 
-@media (min-width: 1305px) and (max-width: 1315px) {
-    .sussy_sausage {
+@media only screen and (min-width: 1305px) and (max-width: 1315px) {
+    .kahoot_pic {
         width: 605px;
     }
 
-    .salami_game {
+    .salami_game_pic {
         width: 532px;
     }
 
@@ -395,12 +385,12 @@ iframe {
     }
 }
 
-@media (min-width: 1315px) and (max-width: 1330px) {
-    .sussy_sausage {
+@media only screen and (min-width: 1315px) and (max-width: 1330px) {
+    .kahoot_pic {
         width: 614px;
     }
 
-    .salami_game {
+    .salami_game_pic {
         width: 540px;
     }
 
@@ -409,12 +399,12 @@ iframe {
     }
 }
 
-@media (min-width: 1330px) and (max-width: 1345px) {
-    .sussy_sausage {
+@media only screen and (min-width: 1330px) and (max-width: 1345px) {
+    .kahoot_pic {
         width: 631px;
     }
 
-    .salami_game {
+    .salami_game_pic {
         width: 557px;
     }
 
@@ -423,12 +413,12 @@ iframe {
     }
 }
 
-@media (min-width: 1345px) and (max-width: 1360px) {
-    .sussy_sausage {
+@media only screen and (min-width: 1345px) and (max-width: 1360px) {
+    .kahoot_pic {
         width: 646px;
     }
 
-    .salami_game {
+    .salami_game_pic {
         width: 570px;
     }
 
@@ -438,12 +428,12 @@ iframe {
 }
 
 
-@media (min-width: 1360px) and (max-width: 1375px) {
-    .sussy_sausage {
+@media only screen and (min-width: 1360px) and (max-width: 1375px) {
+    .kahoot_pic {
         width: 659px;
     }
 
-    .salami_game {
+    .salami_game_pic {
         width: 584px;
     }
 
@@ -452,12 +442,12 @@ iframe {
     }
 }
 
-@media (min-width: 1375px) and (max-width: 1400px) {
-    .sussy_sausage {
+@media only screen and (min-width: 1375px) and (max-width: 1400px) {
+    .kahoot_pic {
         width: 675px;
     }
 
-    .salami_game {
+    .salami_game_pic {
         width: 600px;
     }
 
@@ -466,12 +456,12 @@ iframe {
     }
 }
 
-@media (min-width: 1420px) {
-    .sussy_sausage {
+@media only screen and (min-width: 1420px) {
+    .kahoot_pic {
         width: 675px;
     }
 
-    .salami_game {
+    .salami_game_pic {
         width: 600px;
     }
 
@@ -480,12 +470,12 @@ iframe {
     }
 }
 
-@media (min-width: 1500px) {
-    .sussy_sausage {
+@media only screen and (min-width: 1500px) {
+    .kahoot_pic {
     height: 520px;
     width: 770px;
     }
-    .salami_game {
+    .salami_game_pic {
     width: 700px;
     height: 559px;
     }
@@ -493,6 +483,10 @@ iframe {
     iframe {
         width: 700px;
     }
+
+}
+
+@media only screen and (min-width : 1824px) {
 }
 
     
